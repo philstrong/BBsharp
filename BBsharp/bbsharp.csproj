@@ -72,6 +72,7 @@
     <Compile Include="BBCodeParser.cs" />
     <Compile Include="BBCodeTextNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Renderers\Html\ClassConvert.cs" />
     <Compile Include="Renderers\Html\Color.cs" />
     <Compile Include="Renderers\Html\DirectlyConvertable.cs" />
     <Compile Include="Renderers\Html\Easy.cs" />

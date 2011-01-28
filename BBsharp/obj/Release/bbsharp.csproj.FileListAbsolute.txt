@@ -1,5 +1,10 @@
-C:\Users\Charlie\Documents\Visual Studio 2008\Projects\bbsharp\bbsharp\bin\Release\bbsharp.dll
-C:\Users\Charlie\Documents\Visual Studio 2008\Projects\bbsharp\bbsharp\bin\Release\bbsharp.pdb
-C:\Users\Charlie\Documents\Visual Studio 2008\Projects\bbsharp\bbsharp\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Charlie\Documents\Visual Studio 2008\Projects\bbsharp\bbsharp\obj\Release\bbsharp.dll
-C:\Users\Charlie\Documents\Visual Studio 2008\Projects\bbsharp\bbsharp\obj\Release\bbsharp.pdb
+C:\Foliofn\Folios\trunk\archive\dependencies_src\BBsharp\bin\Release\bbsharp.dll
+C:\Foliofn\Folios\trunk\archive\dependencies_src\BBsharp\bin\Release\bbsharp.pdb
+C:\Foliofn\Folios\trunk\archive\dependencies_src\BBsharp\obj\Release\ResolveAssemblyReference.cache
+C:\Foliofn\Folios\trunk\archive\dependencies_src\BBsharp\obj\Release\bbsharp.dll
+C:\Foliofn\Folios\trunk\archive\dependencies_src\BBsharp\obj\Release\bbsharp.pdb
+C:\Foliofn\Folios\trunk\archive\dependencies_src\Git\BBsharp\BBsharp\bin\Release\bbsharp.dll
+C:\Foliofn\Folios\trunk\archive\dependencies_src\Git\BBsharp\BBsharp\bin\Release\bbsharp.pdb
+C:\Foliofn\Folios\trunk\archive\dependencies_src\Git\BBsharp\BBsharp\obj\Release\ResolveAssemblyReference.cache
+C:\Foliofn\Folios\trunk\archive\dependencies_src\Git\BBsharp\BBsharp\obj\Release\bbsharp.dll
+C:\Foliofn\Folios\trunk\archive\dependencies_src\Git\BBsharp\BBsharp\obj\Release\bbsharp.pdb

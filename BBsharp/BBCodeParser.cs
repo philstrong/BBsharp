@@ -79,6 +79,10 @@ namespace bbsharp
                     // reached the end of tagname, handle accordingly
                     if (!IsClosing && (BBCode[i] == '=' || BBCode[i] == ']'))
                     {
+                        // this fixes exception thrown when user inputs []
+                        if (string.IsNullOrEmpty(TagName.ToString()))
+                            continue;
+                        
                         var el = new BBCodeNode(TagName.ToString(), "", SingularTags.Contains(TagName.ToString()));
                         nodestack.Peek().AppendChild(el);
                         if (!el.Singular)
